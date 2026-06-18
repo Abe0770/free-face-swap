@@ -1,0 +1,38 @@
+# Privacy Policy
+
+**Effective Date:** June 18, 2026
+
+## Introduction
+This Privacy Policy applies to the Face Swap app (the "App"), developed to provide users with photo-editing and face-swapping capabilities. We are committed to protecting your privacy and ensuring you have a positive experience while using our application.
+
+## Information We Collect and How We Use It
+
+### 1. Images and Camera Data
+To provide the core functionality of the App (face swapping), we require access to your device's camera and photo gallery. 
+- **Processing:** The images you choose to process are used strictly for generating the face-swap result. 
+- **Storage:** We do not claim ownership of your images. Depending on the processing method (local on-device processing vs. cloud-based processing), your images may be temporarily uploaded to secure servers for the sole purpose of applying the face swap effect. They are not stored, shared, or used for any other purpose after the process is completed.
+
+### 2. Advertising and Analytics Data
+The App uses third-party services that may collect information used to identify you, primarily for serving advertisements.
+- **Google AdMob:** We use Google AdMob to display ads (such as rewarded video ads to earn credits). AdMob may collect and use data like your device's advertising ID, IP address, and usage data to serve personalized or non-personalized ads. 
+- You can find more information about how Google uses data in their [Privacy Policy](https://policies.google.com/privacy).
+
+## Third-Party Services
+The App utilizes third-party services that have their own Privacy Policies. Please review them:
+* [Google Play Services](https://policies.google.com/privacy)
+* [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
+## Data Retention
+We retain minimal data necessary for the app to function. Local data, such as your current credit balance, is stored securely on your device using Android's standard preferences system. If you uninstall the app or clear its data, this local data will be permanently deleted.
+
+## Security
+We value your trust in providing us with your personal information and strive to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage, is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+## Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+
+## Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+## Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **[Insert Your Developer Email Here]**
